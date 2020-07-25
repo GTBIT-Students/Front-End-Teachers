@@ -1,0 +1,1 @@
+{"version":3,"sources":["login.module.css"],"names":[],"mappings":"AAAA,wBACI,UACJ,CACA,yCACI,wBAEI,UACJ,CACJ","file":"main.413792e0.chunk.css","sourcesContent":[".logincard{\n    width: 30vw;\n}\n@media only screen and (max-width: 900px) {\n    .logincard{\n\n        width: 100%;\n    }\n}"]}
